@@ -1,1 +1,1 @@
-# Cisco-Nexus-VPC-SNMP-LLD
+inspired of (https://github.com/jiholland/zabbix_cisco_vpc)
